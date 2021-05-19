@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/6797351d-c7b2-41e1-a73c-b22ff952c62b/resourceGroups/bpmn/providers/Microsoft.Web/sites/netpower-bpmn",
+    "appService.deploySubpath": "."
+}
